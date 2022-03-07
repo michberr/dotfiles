@@ -1,0 +1,10 @@
+
+[user]
+	name = Michelle Berry
+	email = michelle@withmaza.com
+[alias]
+    co = checkout
+    st = status
+    br = branch
+    com = checkout main
+    am = add . && git commit --amend
