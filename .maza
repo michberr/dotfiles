@@ -1,0 +1,2 @@
+echo 'export NGROK_DOMAIN=yourname.ngrok.io' >> ~/.bashrc
+source ~/.bashrc
